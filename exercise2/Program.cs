@@ -4,7 +4,7 @@ namespace exercise2
 {
     class Program
     {
-        // Deklarasi array int dengan ukuran 06+20-2x15+10+20 = 71
+        // Deklarasi array int dengan ukuran 51+20-2x15+10+20 = 71
         private int[] rifa = new int[71];
         // Deklarasi variabel int untuk menyimpan banyaknya data pada array 
         private int n;
